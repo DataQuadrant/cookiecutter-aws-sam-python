@@ -1,0 +1,10 @@
+{
+    "project_name": "wdl-weather-actuals",
+    "function_name": "wdl_weather_actuals",
+    "function_cft_name": "WdlWeatherActuals",
+    "project_short_description": "Daily weather data ingestion for actuals at hourly and daily intervals.",
+    "include_apigw": "y",
+    "include_xray": "n",
+    "include_safe_deployment": "n",
+    "include_experimental_make": "y"
+}
